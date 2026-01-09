@@ -14,6 +14,8 @@
 
 > 组织结构由两个关键部分组成：**指导委员会**和若干**工作组**。
 
+![RoboChallenge Organizational Structure](image/readme/structure.svg)
+
 **[点击此处](https://robochallenge.ai/RoboChallenge_Committee_Governance_Model.pdf)阅读更多关于我们的原则和治理模式的信息。**
 
 

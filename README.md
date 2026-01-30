@@ -4,6 +4,17 @@
 
 We aim to build a unified, open, and large-scale real-robot-based benchmark platform for embodied intelligence.
 
+**Released: RoboChallenge Annual Report (2025 Q4 – 2026 Q1)**
+
+Based on tens of thousands of real-robot evaluation runs, this report analyzes the Table30 leaderboard performance and reviews representative task cases. It brings together practical insights from participating model teams and volunteers, and compiles recommendations from the RoboChallenge committee and the broader community to inform the platform’s future development.
+
+<p align="center">
+  <a href="https://robochallenge.cn/2025%20RoboChallenge%20Annual%20Report.pdf"><img src="https://raw.githubusercontent.com/RoboChallenge/Community/refs/heads/main/image/readme/Cover_EN.png" width="300" /></a>
+</p>
+
+<p align="center">
+  Read the Report: <b><a href="https://robochallenge.cn/2025%20RoboChallenge%20Annual%20Report.pdf">English</a> / <a href="https://robochallenge.cn/2025%20RoboChallenge%20%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A.pdf">中文版</a></b>
+</p>
 
 ## How to Join the RC Working Group
 

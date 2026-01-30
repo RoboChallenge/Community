@@ -4,6 +4,18 @@
 
 我们致力于构建一个统一、开放、大规模的基于真实机器人的具身智能基准测试平台。
 
+**【发布】RoboChallenge 年度报告（2025 Q4 – 2026 Q1）**
+
+本报告基于数万次真实的机器人评测运行数据，深入分析了 Table30 排行榜的表现，并回顾了具有代表性的任务案例。报告汇集了参赛模型团队与志愿者的实战见解，并整合了 RoboChallenge 委员会及广大社区的建议，旨在为平台的未来发展提供参考依据。
+
+<p align="center">
+  <a href="https://robochallenge.cn/2025%20RoboChallenge%20%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A.pdf"><img src="https://raw.githubusercontent.com/RoboChallenge/Community/refs/heads/main/image/readme/Cover_CN.png" width="300" /></a>
+</p>
+
+<p align="center">
+  阅读报告：<a href="https://robochallenge.cn/2025%20RoboChallenge%20Annual%20Report.pdf">英文版</a> / <a href="https://robochallenge.cn/2025%20RoboChallenge%20%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A.pdf">中文版</a>
+</p>
+
 ## 如何加入 RC 工作组
 
 按照这 3 个简单步骤加入 RoboChallenge (RC) 工作组，共同为具身智能的未来做出贡献。
